@@ -19,3 +19,7 @@ console.log("Cahiers :" + montant_des_cahiers + "FCFA");
 console.log("Stylos :" + montant_des_stylos + "FCFA");
 console.log("Montant Total :" + montant_total_achat + "FCFA");
 console.log("Budget :" + budget + "FCFA");
+
+for(let i = 1; i <= 5; i++) {
+    console.log("Achat numéro" + i);
+}
